@@ -19,7 +19,7 @@
     "@turf/turf": "^5.1.6",
     "css-loader": "^3.4.0",
     "file-loader": "^5.0.2",
-    "mapbox-gl": "^1.6.1",
+    "mapbox-gl": "^1.8.1",
     "style-loader": "^1.1.1",
     "url-loader": "^3.0.0"
   }

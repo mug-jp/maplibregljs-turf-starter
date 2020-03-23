@@ -6,7 +6,7 @@
 
 Start Turf.js easily.  
 - [Turf.js v5.1.6](http://turfjs.org/)  
-- [MapboxGLJS v1.6.1](https://www.mapbox.com/mapbox-gl-js/api/)  
+- [MapboxGLJS v1.8.1](https://www.mapbox.com/mapbox-gl-js/api/)  
 - [webpack v4.41.4](https://webpack.js.org)  
 - node v13.1.0
 - npm v6.13.2
@@ -59,7 +59,7 @@ npm run dev
 ## License
 MIT
 
-Copyright (c) 2019 Yasunori Kirimoto
+Copyright (c) 2020 Yasunori Kirimoto
 
 <br>
 
@@ -79,7 +79,7 @@ Copyright (c) 2019 Yasunori Kirimoto
 
 Turf.jsを手軽に始める
 - [Turf.js v5.1.6](http://turfjs.org/)  
-- [MapboxGLJS v1.6.1](https://www.mapbox.com/mapbox-gl-js/api/) 
+- [MapboxGLJS v1.8.1](https://www.mapbox.com/mapbox-gl-js/api/) 
 - [webpack v4.41.4](https://webpack.js.org)  
 - node v13.1.0
 - npm v6.13.2
@@ -129,6 +129,6 @@ npm run dev
 ## ライセンス
 MIT
 
-Copyright (c) 2019 Yasunori Kirimoto
+Copyright (c) 2020 Yasunori Kirimoto
 
 <br>
