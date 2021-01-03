@@ -6,10 +6,10 @@
 
 Start Turf.js easily.  
 - [Turf.js v5.1.6](http://turfjs.org/)  
-- [MapboxGLJS v1.8.1](https://www.mapbox.com/mapbox-gl-js/api/)  
-- [webpack v4.41.4](https://webpack.js.org)  
-- node v13.1.0
-- npm v6.13.2
+- [MapboxGLJS v1.13.0](https://www.mapbox.com/mapbox-gl-js/api/)  
+- [webpack v5.11.1](https://webpack.js.org)  
+- node v15.5.0
+- npm v7.3.0
 
 <br>
 
@@ -20,31 +20,22 @@ Start Turf.js easily.
 <br>
 
 Install package
-
-```
-
+```bash
 npm install
-
 ```
 
 <br>
 
 build
-
-```
-
+```bash
 npm run build
-
 ```
 
 <br>
 
 dev
-
-```
-
+```bash
 npm run dev
-
 ```
 
 ---
@@ -59,7 +50,7 @@ npm run dev
 ## License
 MIT
 
-Copyright (c) 2020 Yasunori Kirimoto
+Copyright (c) 2019-2021 Yasunori Kirimoto
 
 <br>
 
@@ -79,10 +70,10 @@ Copyright (c) 2020 Yasunori Kirimoto
 
 Turf.jsを手軽に始める
 - [Turf.js v5.1.6](http://turfjs.org/)  
-- [MapboxGLJS v1.8.1](https://www.mapbox.com/mapbox-gl-js/api/) 
-- [webpack v4.41.4](https://webpack.js.org)  
-- node v13.1.0
-- npm v6.13.2
+- [MapboxGLJS v1.13.0](https://www.mapbox.com/mapbox-gl-js/api/) 
+- [webpack v5.11.1](https://webpack.js.org)  
+- node v15.5.0
+- npm v7.3.0
 
 <br>
 
@@ -94,29 +85,24 @@ Turf.jsを手軽に始める
 
 パッケージインストール
 
-```
-
+```bash
 npm install
-
 ```
 
 <br>
 
 ビルド
 
-```
-
+```bash
 npm run build
-
 ```
 
 <br>
 
 開発
 
-```
+```bash
 npm run dev
-
 ```
 
 <br>
@@ -129,6 +115,6 @@ npm run dev
 ## ライセンス
 MIT
 
-Copyright (c) 2020 Yasunori Kirimoto
+Copyright (c) 2019-2021 Yasunori Kirimoto
 
 <br>

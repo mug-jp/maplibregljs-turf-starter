@@ -1,6 +1,6 @@
 
 // MIERUNE MONO読み込み
-var map = new mapboxgl.Map({
+const map = new mapboxgl.Map({
     container: "map",
     style: {
         version: 8,
@@ -27,7 +27,7 @@ var map = new mapboxgl.Map({
 map.on("load", function () {
 
     // 元ポイントを取得
-    var features = turf.featureCollection([
+    const features = turf.featureCollection([
         turf.point([139.7594, 35.6865]),
         turf.point([139.7692, 35.6665]),
         turf.point([139.7812, 35.6849])
@@ -56,7 +56,7 @@ map.on("load", function () {
 
 
     // センターポイントを取得
-    var center = turf.center(features);
+    const center = turf.center(features);
 
     // センターポイント表示
     map.addSource("CenterPoint", {
