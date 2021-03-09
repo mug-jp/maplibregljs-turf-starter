@@ -1,6 +1,6 @@
 {
   "name": "turfjs-starter",
-  "version": "5.1.6",
+  "version": "6.3.0",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "webpack-dev-server": "^3.11.1"
   },
   "dependencies": {
-    "@turf/turf": "^5.1.6",
+    "@turf/turf": "^6.3.0",
     "css-loader": "^5.0.1",
     "file-loader": "^6.2.0",
     "mapbox-gl": "1.13.0",
