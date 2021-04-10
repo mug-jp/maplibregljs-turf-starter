@@ -1,6 +1,6 @@
 {
   "name": "turfjs-starter",
-  "version": "6.3.0",
+  "version": "6.3.1",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "@turf/turf": "^6.3.0",
     "css-loader": "^5.0.1",
     "file-loader": "^6.2.0",
-    "mapbox-gl": "1.13.0",
+    "maplibre-gl": "^1.14.0",
     "style-loader": "^2.0.0",
     "url-loader": "^4.1.1"
   },
