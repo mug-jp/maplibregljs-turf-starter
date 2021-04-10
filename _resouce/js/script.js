@@ -1,5 +1,5 @@
 // MIERUNE MONO読み込み
-const map = new mapboxgl.Map({
+const map = new maplibregl.Map({
     container: 'map',
     style: {
         version: 8,
@@ -79,4 +79,4 @@ map.on('load', function () {
 });
 
 // コントロール関係表示
-map.addControl(new mapboxgl.NavigationControl());
+map.addControl(new maplibregl.NavigationControl());

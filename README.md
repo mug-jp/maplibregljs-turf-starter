@@ -6,7 +6,7 @@
 
 Start Turf.js easily.  
 - [Turf.js v6.3.0](http://turfjs.org/)  
-- [MapboxGLJS v1.13.0](https://www.mapbox.com/mapbox-gl-js/api/)  
+- [MapLibre GL JS v1.14.0](https://github.com/maplibre/maplibre-gl-js) 
 - [webpack v5.11.1](https://webpack.js.org)  
 - node v15.5.0
 - npm v7.3.0
@@ -70,7 +70,7 @@ Copyright (c) 2019-2021 Yasunori Kirimoto
 
 Turf.jsを手軽に始める
 - [Turf.js v6.3.0](http://turfjs.org/)  
-- [MapboxGLJS v1.13.0](https://www.mapbox.com/mapbox-gl-js/api/) 
+- [MapLibre GL JS v1.14.0](https://github.com/maplibre/maplibre-gl-js) 
 - [webpack v5.11.1](https://webpack.js.org)  
 - node v15.5.0
 - npm v7.3.0
