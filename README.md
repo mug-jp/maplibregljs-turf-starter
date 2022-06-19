@@ -1,21 +1,20 @@
 # turfjs-starter
 
-![README02](./img/README02.png)
-
-![README03](./img/README03.png)
+![README02](img/README02.png)
 
 Start Turf.js easily.  
-- [Turf.js v6.3.0](http://turfjs.org/)  
-- [MapLibre GL JS v1.14.0](https://github.com/maplibre/maplibre-gl-js) 
-- [webpack v5.11.1](https://webpack.js.org)  
-- node v15.5.0
-- npm v7.3.0
+- [Turf.js v6.5.0](http://turfjs.org/)  
+- [MapLibre GL JS v2.1.9](https://maplibre.org)  
+- [TypeScript v4.5.4](https://www.typescriptlang.org)
+- [Vite v2.9.9](https://vitejs.dev)  
+- node v18.1.0
+- npm v8.8.0
 
 <br>
 
 ## Usage
 
-![README04](./img/README04.png)
+![README03](img/README03.png)
 
 <br>
 
@@ -43,14 +42,14 @@ npm run dev
 <br>
 <br>
 
-![README01](./img/README01.gif)
+![README01](img/README01.png)
 
 <br>
 
 ## License
 MIT
 
-Copyright (c) 2019-2021 Yasunori Kirimoto
+Copyright (c) 2019-2022 Yasunori Kirimoto
 
 <br>
 
@@ -64,22 +63,20 @@ Copyright (c) 2019-2021 Yasunori Kirimoto
 
 # Turf.js スターター
 
-![README02](./img/README02.png)
-
-![README03](./img/README03.png)
+![README02](img/README02.png)
 
 Turf.jsを手軽に始める
-- [Turf.js v6.3.0](http://turfjs.org/)  
-- [MapLibre GL JS v1.14.0](https://github.com/maplibre/maplibre-gl-js) 
-- [webpack v5.11.1](https://webpack.js.org)  
-- node v15.5.0
-- npm v7.3.0
+- [Turf.js v6.5.0](http://turfjs.org/)  
+- [TypeScript v4.5.4](https://www.typescriptlang.org)
+- [Vite v2.9.9](https://vitejs.dev)  
+- node v18.1.0
+- npm v8.8.0
 
 <br>
 
 ##  使用方法
 
-![README04](./img/README04.png)
+![README03](img/README03.png)
 
 <br>
 
@@ -108,13 +105,13 @@ npm run dev
 <br>
 <br>
 
-![README01](./img/README01.gif)
+![README01](img/README01.png)
 
 <br>
 
 ## ライセンス
 MIT
 
-Copyright (c) 2019-2021 Yasunori Kirimoto
+Copyright (c) 2019-2022 Yasunori Kirimoto
 
 <br>
