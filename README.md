@@ -1,12 +1,12 @@
-# turfjs-starter
+# maplibregljs-turfjs-starter
 
 ![README02](img/README02.png)
 
 Start Turf.js easily.  
 - [Turf.js v6.5.0](http://turfjs.org/)  
-- [MapLibre GL JS v3.1.0](https://maplibre.org)  
-- [TypeScript v5.1.6](https://www.typescriptlang.org)
-- [Vite v4.3.9](https://vitejs.dev)  
+- [MapLibre GL JS v3.3.1](https://maplibre.org)  
+- [TypeScript v5.2.2](https://www.typescriptlang.org)  
+- [Vite v4.4.9](https://vitejs.dev)  
 - node v18.1.0
 - npm v8.8.0
 
@@ -61,15 +61,15 @@ Copyright (c) 2019-2023 Yasunori Kirimoto
 
 <br>
 
-# Turf.js スターター
+# MapLibre GL JS & Turf.js スターター
 
 ![README02](img/README02.png)
 
 Turf.jsを手軽に始める
 - [Turf.js v6.5.0](http://turfjs.org/)  
-- [MapLibre GL JS v3.1.0](https://maplibre.org)  
-- [TypeScript v5.1.6](https://www.typescriptlang.org)
-- [Vite v4.3.9](https://vitejs.dev)  
+- [MapLibre GL JS v3.3.1](https://maplibre.org)  
+- [TypeScript v5.2.2](https://www.typescriptlang.org)  
+- [Vite v4.4.9](https://vitejs.dev)  
 - node v18.1.0
 - npm v8.8.0
 
