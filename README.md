@@ -1,4 +1,4 @@
-# maplibregljs-turfjs-starter
+# maplibregljs-turf-starter
 
 ![README02](img/README02.png)
 
@@ -49,7 +49,7 @@ npm run dev
 ## License
 MIT
 
-Copyright (c) 2019-2023 Yasunori Kirimoto
+Copyright (c) 2023 MapLibre User Group Japan
 
 <br>
 
@@ -113,6 +113,6 @@ npm run dev
 ## ライセンス
 MIT
 
-Copyright (c) 2019-2023 Yasunori Kirimoto
+Copyright (c) 2023 MapLibre User Group Japan
 
 <br>
