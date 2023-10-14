@@ -1,3 +1,3 @@
 export default {
-  base: '/turfjs-starter/'
+  base: '/maplibregljs-turf-starter/'
 }
