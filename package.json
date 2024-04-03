@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.2.2",
-    "vite": "^4.4.12"
+    "vite": "^4.5.3"
   },
   "dependencies": {
     "@turf/turf": "^6.5.0",
