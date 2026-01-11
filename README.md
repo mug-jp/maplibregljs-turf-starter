@@ -3,12 +3,12 @@
 ![README02](img/README02.png)
 
 Start Turf.js easily.  
-- [Turf.js v6.5.0](http://turfjs.org/)  
-- [MapLibre GL JS v3.3.1](https://maplibre.org)  
-- [TypeScript v5.2.2](https://www.typescriptlang.org)  
-- [Vite v4.4.9](https://vitejs.dev)  
-- node v18.1.0
-- npm v8.8.0
+- [Turf.js v7.3.1](http://turfjs.org/)  
+- [MapLibre GL JS v5.15.0](https://maplibre.org)  
+- [TypeScript v5.9.3](https://www.typescriptlang.org)  
+- [Vite v7.3.1](https://vitejs.dev)  
+- node v24.4.1
+- npm v11.4.2
 
 <br>
 
@@ -49,7 +49,7 @@ npm run dev
 ## License
 MIT
 
-Copyright (c) 2023 MapLibre User Group Japan
+Copyright (c) 2023-2026 MapLibre User Group Japan
 
 <br>
 
@@ -66,12 +66,12 @@ Copyright (c) 2023 MapLibre User Group Japan
 ![README02](img/README02.png)
 
 Turf.jsを手軽に始める
-- [Turf.js v6.5.0](http://turfjs.org/)  
-- [MapLibre GL JS v3.3.1](https://maplibre.org)  
-- [TypeScript v5.2.2](https://www.typescriptlang.org)  
-- [Vite v4.4.9](https://vitejs.dev)  
-- node v18.1.0
-- npm v8.8.0
+- [Turf.js v7.3.1](http://turfjs.org/)  
+- [MapLibre GL JS v5.15.0](https://maplibre.org)  
+- [TypeScript v5.9.3](https://www.typescriptlang.org)  
+- [Vite v7.3.1](https://vitejs.dev)  
+- node v24.4.1
+- npm v11.4.2
 
 <br>
 
@@ -113,6 +113,6 @@ npm run dev
 ## ライセンス
 MIT
 
-Copyright (c) 2023 MapLibre User Group Japan
+Copyright (c) 2023-2026 MapLibre User Group Japan
 
 <br>
