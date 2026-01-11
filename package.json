@@ -1,6 +1,6 @@
 {
   "name": "maplibregljs-turf-starter",
-  "version": "6.5.0",
+  "version": "7.3.1",
   "description": "",
   "scripts": {
     "dev": "vite",
@@ -9,13 +9,13 @@
   },
   "keywords": [],
   "author": "MapLibre User Group Japan",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.2.2",
-    "vite": "^5.4.21"
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
   },
   "dependencies": {
-    "@turf/turf": "^6.5.0",
-    "maplibre-gl": "^3.3.1"
+    "@turf/turf": "^7.3.1",
+    "maplibre-gl": "^5.15.0"
   }
 }
